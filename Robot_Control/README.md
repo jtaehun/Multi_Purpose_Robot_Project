@@ -1,4 +1,4 @@
-[로봇 제어]
+🤖[로봇 제어]
 
 Arduino IDE (OpenCR + Dynamixel)
 
