@@ -1,6 +1,5 @@
-[지형 극복 및 객체 탐지 기반 다목적 탐사 로봇 시스템의 구현]
-
-[Development of Multi-Purpose Exploration Robot System Based on Terrain Traversability and Object Recognition]
+# [지형 극복 및 객체 탐지 기반 다목적 탐사 로봇 시스템의 구현]
+Development of Multi-Purpose Exploration Robot System Based on Terrain Traversability and Object Recognition
 
 다양한 지형에서의 주행, 객체 인식, 그리고 UI 기반 제어 기능을 갖춘 다목적 탐사 로봇을 주제로 프로젝트를 진행했습니다.
 
