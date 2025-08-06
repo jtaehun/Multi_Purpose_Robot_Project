@@ -8,11 +8,14 @@ Node-RED
 - 카메라 이미지 프레임을 실시간으로 Node-RED 대시보드에 표시
 
 [FLOW1]
+
 Flask 서버를 웹으로 연결
 
 [FLOW2]
+
 Walking_Mode, Wheel_Mode, Go, Stop 버튼 생성
 생성한 버튼을 시리얼을 통해 아두이노와 연결
 
 [FLOW3]
+
 카메라 이미지 프레임을 실시간으로 변환해 Node-RED 대시보드에 표시
