@@ -1,6 +1,6 @@
-# [지형 극복 및 객체 탐지 기반 다목적 탐사 로봇 시스템의 구현]
+[지형 극복 및 객체 탐지 기반 다목적 탐사 로봇 시스템의 구현]
 Development of Multi-Purpose Exploration Robot System Based on Terrain Traversability and Object Recognition
-
+#
 다양한 지형에서의 주행, 객체 인식, 그리고 UI 기반 제어 기능을 갖춘 다목적 탐사 로봇을 주제로 프로젝트를 진행했습니다.
 
 구현된 로봇은 유연한 이동성을 제공하기 위해 두 가지 동작 모드를 지원하며, 평탄한 지형에서는 바퀴 주행 모드로 이동하며, 턱이나 장애물을 만났을 때는 4족 보행 모드로 전환하여 이동을 합니다
