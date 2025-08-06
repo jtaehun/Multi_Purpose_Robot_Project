@@ -1,4 +1,4 @@
-[스트리밍 및 객체 탐지]
+🖥️[스트리밍 및 객체 탐지]
 
 Python (Flask + YOLOv5)
 - VideoStream 클래스로 카메라 프레임 비동기 수집
